@@ -1,4 +1,4 @@
-# Calculadora.github.io
+# Calculadora
 Calculadora Simples
 Utilizando:
 -C++
